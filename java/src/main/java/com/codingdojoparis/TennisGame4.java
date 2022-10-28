@@ -1,3 +1,5 @@
+package com.codingdojoparis;
+
 public class TennisGame4 implements TennisGame {
 
     int serverScore;

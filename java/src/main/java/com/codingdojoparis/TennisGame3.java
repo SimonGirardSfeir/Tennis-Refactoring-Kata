@@ -1,3 +1,6 @@
+package com.codingdojoparis;
+
+import com.codingdojoparis.TennisGame;
 
 public class TennisGame3 implements TennisGame {
     
