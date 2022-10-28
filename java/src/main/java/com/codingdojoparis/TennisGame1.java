@@ -1,7 +1,5 @@
 package com.codingdojoparis;
 
-import com.codingdojoparis.TennisGame;
-
 public class TennisGame1 implements TennisGame {
 
     private int player1Points = 0;
